@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+# Active RewriteEngine
+RewriteEngine on
+RewriteBase /
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+RewriteRule ^show/(.*)$ show.php?id=$1
+</IfModule>
