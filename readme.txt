@@ -14,11 +14,9 @@ REQUIREMENTS
 
 
 INCLUES
-- Font Awesome (http://fortawesome.github.com/Font-Awesome/)
 - jQuery (jquery.com)
-- html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-- jquery.dropotron (n33.co)
-- skelJS (skeljs.org)
+- Modernizr 
+- Twitter Bootstrap
 
 INSTALLATION
 	
@@ -40,7 +38,9 @@ INSTALLATION
 	
 - Have fun
 
- ("a0rtega" 
+ 
+
+TRANKS
+- a0rtega (initial concept), 
 http://securitybydefault.com/
 
-)

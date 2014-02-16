@@ -20,3 +20,37 @@
 
 
 
+
+textarea {
+	border: 3px solid #BABABA;
+	padding: 7px;
+}
+
+font {
+	color: #3D3D3D;
+}
+
+#sub_but {
+	background:#5d9ab2 url('img/save.png') no-repeat center center;
+	text-indent: 15px;
+	color: #3D3D3D;
+}
+
+#sub_but:hover {
+	color: #3A5FCD;
+}
+
+#title {
+	color: #3A5FCD;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: "Courier New", Courier, monospace;
+}
+
+#email {
+	color: #3A5FCD;
+}
+
+A {text-decoration: none; font-weight:bold; color:black;}
+A:hover {text-decoration: underline }
+
